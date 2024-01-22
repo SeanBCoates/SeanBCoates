@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SeanBCoates
 - 👀 I’m interested in data analysis
-- 🌱 I’m currently learning SQL and Python
+- 🌱 I know SQL, Excel, and Tableau. I'm still learning more
 - 💞️ I’m looking to collaborate on any data related projects
 - 📫 Contact me: seanbcoates@pm.me
 
